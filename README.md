@@ -1,5 +1,5 @@
-👋 Hi there! I'm BL4CKH47H4CK3R,
-Developer, XDA Recognized Developer, Self-taught Programmer
+👋 Hi there! I'm BL4CKH47H4CK3R!
+BlackHat, Reverse Engineer, Bug Bounty Hunter, SysAdmin, XDA Recognized Developer & Self-taught Programmer
 
 ✨ I've been coding since 2013, mostly for automation, chatbots, and building other cool projects.
 Also, I've been tinkering with Android software development since 2014, building mods, custom recoveries, and custom ROMs
