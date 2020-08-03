@@ -30,6 +30,6 @@
 
 **:pushpin: ℙ𝕣𝕠𝕗𝕚𝕝𝕖 𝕆𝕧𝕖𝕣𝕧𝕚𝕖𝕨:**
 
-![𝕍𝕚𝕤𝕚𝕥𝕠𝕣𝕤](https://visitor-badge.laobi.icu/badge?page_id=BL4CKH47H4CK3R.BL4CKH47H4CK3R)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=BL4CKH47H4CK3R.BL4CKH47H4CK3R)
 
 ![𝔹𝕃𝟜ℂ𝕂ℍ𝟜𝟟ℍ𝟜ℂ𝕂𝟛ℝ 𝔾𝕚𝕥𝕙𝕦𝕓 𝕊𝕥𝕒𝕥𝕤](https://github-readme-stats.vercel.app/api?username=BL4CKH47H4CK3R&show_icons=true)
