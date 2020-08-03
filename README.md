@@ -31,8 +31,8 @@ for Android devices.
 
 **:sparkles: Some of my projects:**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BL4CKH47H4CK3R&repo=ventoy)](https://github.com/ventoy/ventoy)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BL4CKH47H4CK3R&repo=OneShot)]( https://github.com/drygdryg/OneShot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?repo=ventoy)](https://github.com/ventoy/ventoy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?repo=OneShot)]( https://github.com/drygdryg/OneShot)
 
 **:pushpin: Profile overview:**
 
