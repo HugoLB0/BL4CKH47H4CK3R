@@ -32,5 +32,4 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BL4CKH47H4CK3R.BL4CKH47H4CK3R)
 
-![BL4CKH47H4CK3R Github
-Stats](https://github-readme-stats.vercel.app/api?username=BL4CKH47H4CK3R&show_icons=true)
+![𝔹𝕃𝟜ℂ𝕂ℍ𝟜𝟟ℍ𝟜ℂ𝕂𝟛ℝ 𝔾𝕚𝕥𝕙𝕦𝕓 𝕊𝕥𝕒𝕥𝕤](https://github-readme-stats.vercel.app/api?username=BL4CKH47H4CK3R&show_icons=true)
