@@ -8,7 +8,7 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white&link=https://t.me/BL4CKH47H4CK3R)](https://t.me/BL4CKH47H4CK3R) <br />
 
-**:wrench: Languages and Tools:**
+**:wrench: 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤:**
 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"> <br />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img
@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/-Jekyll-CC0000?style=flat&logo=Jekyll&logoColor=white"> <img
     src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown"> <br />
 
-**:pushpin: Profile overview:**
+**:pushpin: ℙ𝕣𝕠𝕗𝕚𝕝𝕖 𝕆𝕧𝕖𝕣𝕧𝕚𝕖𝕨:**
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BL4CKH47H4CK3R.BL4CKH47H4CK3R)
 
