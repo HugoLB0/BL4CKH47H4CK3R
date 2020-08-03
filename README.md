@@ -7,7 +7,7 @@ for Android devices.
 
 **📫 You can reach me on:**
 
-[![![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white&link=https://t.me/BL4CKH47H4CK3R)](https://t.me/BL4CKH47H4CK3R)
+[![![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white&link=https://t.me/BL4CKH47H4CK3R)](https://t.me/BL4CKH47H4CK3R) <br />
 
 **:wrench: Languages and Tools:**
 
@@ -28,11 +28,6 @@ for Android devices.
     src="https://img.shields.io/badge/-Drone%20CI-212121?style=flat&logo=Drone"> <br />
 <img src="https://img.shields.io/badge/-Jekyll-CC0000?style=flat&logo=Jekyll&logoColor=white"> <img
     src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown"> <br />
-
-**:sparkles: Some of my projects:**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?repo=ventoy)](https://github.com/ventoy/ventoy)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?repo=OneShot)]( https://github.com/drygdryg/OneShot)
 
 **:pushpin: Profile overview:**
 
