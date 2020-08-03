@@ -7,7 +7,7 @@ for Android devices.
 
 **📫 You can reach me on:**
 
-[![![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white&link=https://t.me/BL4CKH47H4CK3R)](https://t.me/BL4CKH47H4CK3R) <br />
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white&link=https://t.me/BL4CKH47H4CK3R)](https://t.me/BL4CKH47H4CK3R) <br />
 
 **:wrench: Languages and Tools:**
 
