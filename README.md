@@ -32,4 +32,4 @@
 
 ![𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜](https://visitor-badge.laobi.icu/badge?page_id=BL4CKH47H4CK3R.BL4CKH47H4CK3R&title=𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜)
 
-![𝙱𝙻𝟺𝙲𝙺𝙷𝟺𝟽𝙷𝟺𝙲𝙺𝟹𝚁'𝚜 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&count_private=true&theme=radical)
+![𝙱𝙻𝟺𝙲𝙺𝙷𝟺𝟽𝙷𝟺𝙲𝙺𝟹𝚁'𝚜 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜](https://github-readme-stats.vercel.app/api?username=BL4CKH47H4CK3R&show_icons=true&count_private=true&theme=radical)
