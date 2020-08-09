@@ -8,8 +8,8 @@
 
 𝙵𝚘𝚛𝚖𝚎𝚛 𝙿𝚊𝚛𝚛𝚘𝚝𝙾𝚂 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛. 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝙰𝚛𝚌𝚘𝙻𝚒𝚗𝚞𝚡, 𝙱𝚕𝚒𝚜𝚜𝙾𝚂, 𝚅𝚎𝚗𝚝𝚘𝚢, 𝚄𝚗𝚐𝚘𝚘𝚐𝚕𝚎𝚍 𝙲𝚑𝚛𝚘𝚖𝚒𝚞𝚖, 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖𝙵𝙾𝚂𝚂, 𝙻𝚒𝚋𝚛𝚎𝚆𝚘𝚕𝚏, 𝙰𝚛𝚌𝚑𝙻𝚒𝚗𝚞𝚡 𝚄𝚕𝚝𝚒𝚖𝚊𝚝𝚎 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 (𝙰𝚄𝙸) 𝚂𝚌𝚛𝚒𝚙𝚝, 𝙾𝚗𝚎𝚂𝚑𝚘𝚝. 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 𝚋𝚊𝚌𝚔𝚍𝚘𝚘𝚛 𝚊𝚗𝚍 𝚌𝚛𝚊𝚙-𝚏𝚛𝚎𝚎 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝟷𝟶 𝚄𝚕𝚝𝚛𝚊-𝙻𝚒𝚝𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 (𝚆𝚎𝚕𝚕-𝚔𝚗𝚘𝚠𝚗 𝚊𝚜 𝙾𝚙𝚛𝚎𝚔𝚒𝚗 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝚘𝚗 𝚝𝚑𝚎 𝚒𝚗𝚝𝚎𝚛𝚗𝚎𝚝)
 
+<h1 align="center">
 **:wrench: 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 :**
-
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img
     src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img
@@ -27,6 +27,7 @@
     src="https://img.shields.io/badge/-Drone%20CI-212121?style=for-the-badge&logo=Drone"> <br />
 <img src="https://img.shields.io/badge/-Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white"> <img
     src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown"> <br />
+</h1>
 
 **:pushpin: 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠 :**
 
