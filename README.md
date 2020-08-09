@@ -1,3 +1,5 @@
+<h1 align="center">About Me</h1>
+
 👋 𝙷𝚒 𝚃𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝙱𝙻𝟺𝙲𝙺𝙷𝟺𝟽𝙷𝟺𝙲𝙺𝟹𝚁 !
 
 𝙱𝚕𝚊𝚌𝚔𝙷𝚊𝚝, 𝚁𝚎𝚟𝚎𝚛𝚜𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛, 𝙱𝚞𝚐 𝙱𝚘𝚞𝚗𝚝𝚢 𝙷𝚞𝚗𝚝𝚎𝚛, 𝚂𝚢𝚜𝙰𝚍𝚖𝚒𝚗, 𝚇𝙳𝙰 𝚁𝚎𝚌𝚘𝚐𝚗𝚒𝚣𝚎𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚗𝚍 𝚊 𝚖𝚎𝚖𝚋𝚎𝚛 𝚘𝚏 𝟶𝚡𝟶𝟶𝚜𝚎𝚌 - 𝚃𝚑𝚎 𝙷𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝙷𝚊𝚌𝚔𝚎𝚛
@@ -8,7 +10,7 @@
 
 **:wrench: 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 :**
 
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"> <br />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img
     src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img
     src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img
