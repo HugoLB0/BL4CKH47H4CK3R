@@ -8,7 +8,7 @@
 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚜𝚘 𝚖𝚊𝚗𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜. 𝚂𝚑𝚊𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎𝚖 𝚠𝚒𝚝𝚑 𝚢𝚘𝚞 !
 
 - [𝙾𝚙𝚛𝚎𝚔𝚒𝚗](https://anonym.to/?https://oprekin.com)
-- [𝚁𝚎𝚟𝚒𝙾𝚂](https://anonym.to/?https://revi.cc)
+- [𝚁𝚎𝚟𝚒𝙾𝚂](https://anonym.to/?https://www.revi.cc/)
 - [𝚅𝚎𝚗𝚝𝚘𝚢](https://anonym.to/?https://github.com/Ventoy/ventoy)
 - [𝙱𝚕𝚊𝚌𝚔𝙰𝚛𝚌𝚑](https://anonym.to/?https://blackarch.org)
 - [𝙰𝚛𝚌𝚘𝙻𝚒𝚗𝚞𝚡](https://anonym.to/?https://arcolinux.com)
