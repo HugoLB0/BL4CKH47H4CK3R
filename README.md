@@ -15,7 +15,7 @@
 - [𝙱𝚕𝚒𝚜𝚜𝙾𝚂](https://anonym.to/?https://blissos.org)
 - [𝚄𝚗𝚐𝚘𝚘𝚐𝚕𝚎𝚍-𝙲𝚑𝚛𝚘𝚖𝚒𝚞𝚖](https://anonym.to/?https://ungoogled-software.github.io)
 - [𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖-𝙵𝙾𝚂𝚂](https://anonym.to/?https://github.com/Telegram-FOSS-Team/Telegram-FOSS)
-- [𝙸𝚌𝚎𝚆𝚎𝚊𝚜𝚎𝚕-𝚆𝚒𝚗𝟼𝟺](https://github.com/muslayev/iceweasel-win64)
+- [𝙸𝚌𝚎𝚆𝚎𝚊𝚜𝚎𝚕-𝚆𝚒𝚗𝟼𝟺](https://anonym.to/?https://github.com/muslayev/iceweasel-win64)
 - [𝙰𝚛𝚌𝚑𝙻𝚒𝚗𝚞𝚡 𝚄𝚕𝚝𝚒𝚖𝚊𝚝𝚎 𝙸𝚗𝚜𝚝𝚊𝚕𝚕](https://anonym.to/?https://github.com/helmuthdu/aui)
 - [𝙰𝚛𝚌𝚑𝙱𝚘𝚘𝚝](https://anonym.to/?https://github.com/grm34/ArchBoot)
 - [𝙾𝚗𝚎𝚂𝚑𝚘𝚝](https://anonym.to/?https://github.com/drygdryg/OneShot)
