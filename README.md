@@ -7,7 +7,7 @@
 ⚡ 𝙸'𝚟𝚎 𝚋𝚎𝚎𝚗 𝚌𝚘𝚍𝚒𝚗𝚐 𝚜𝚒𝚗𝚌𝚎 𝟸𝟶𝟷𝟹, 𝚖𝚘𝚜𝚝𝚕𝚢 𝚏𝚘𝚛 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗, 𝚌𝚑𝚊𝚝𝚋𝚘𝚝𝚜 𝚊𝚗𝚍 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚘𝚝𝚑𝚎𝚛 𝚌𝚘𝚘𝚕 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜. 𝙰𝚕𝚜𝚘, 𝙸'𝚟𝚎 𝚋𝚎𝚎𝚗 𝚝𝚒𝚗𝚔𝚎𝚛𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚆𝚒𝚗𝚍𝚘𝚠𝚜, 𝙻𝚒𝚗𝚞𝚡, 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝. 𝙱𝚞𝚒𝚕𝚍𝚎𝚍 𝚖𝚘𝚍𝚜, 𝚌𝚞𝚜𝚝𝚘𝚖 𝚁𝙾𝙼, 𝚛𝚎𝚌𝚘𝚟𝚎𝚛𝚢, 𝚔𝚎𝚛𝚗𝚎𝚕𝚜 𝚏𝚘𝚛 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝚍𝚎𝚟𝚒𝚌𝚎𝚜.
 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚜𝚘 𝚖𝚊𝚗𝚢 𝚌𝚘𝚘𝚕 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜.
 
-🔭 **𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 :**
+🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 :
 
 - [𝙾𝚙𝚛𝚎𝚔𝚒𝚗](https://anonym.to/?https://oprekin.com)
 - [𝚁𝚎𝚟𝚒𝙾𝚂](https://anonym.to/?https://www.revi.cc/)
@@ -23,7 +23,7 @@
 - [𝙰𝚛𝚌𝚑𝙱𝚘𝚘𝚝](https://anonym.to/?https://github.com/grm34/ArchBoot)
 - [𝙾𝚗𝚎𝚂𝚑𝚘𝚝](https://anonym.to/?https://github.com/drygdryg/OneShot)
 
-**:wrench: 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 :**
+:wrench: 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 :
 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img
@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/-Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white"> <img
     src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown"> <br />
 
-**:pushpin: 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠 :**
+:pushpin: 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠 :
 
 ![𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜](https://visitor-badge.laobi.icu/badge?page_id=BL4CKH47H4CK3R.BL4CKH47H4CK3R&title=𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 )
 
