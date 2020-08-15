@@ -9,18 +9,15 @@
 
 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 :
 
-- [𝙾𝚙𝚛𝚎𝚔𝚒𝚗](https://anonym.to/?https://oprekin.com)
-- [𝚁𝚎𝚟𝚒𝙾𝚂](https://anonym.to/?https://www.revi.cc/)
 - [𝚅𝚎𝚗𝚝𝚘𝚢](https://anonym.to/?https://www.ventoy.net)
+- [𝚁𝚎𝚟𝚒𝙾𝚂](https://anonym.to/?https://www.revi.cc/)
 - [𝙱𝚕𝚊𝚌𝚔𝙰𝚛𝚌𝚑](https://anonym.to/?https://blackarch.org)
 - [𝙰𝚛𝚌𝚘𝙻𝚒𝚗𝚞𝚡](https://anonym.to/?https://arcolinux.com)
 - [𝙱𝚛𝚘𝚖𝚒𝚝𝚎](https://anonym.to/?https://bromite.org)
 - [𝙱𝚕𝚒𝚜𝚜𝙾𝚂](https://anonym.to/?https://www.blissos.org)
-- [𝙰𝚒𝚛𝚐𝚎𝚍𝚍𝚘𝚗](https://anonym.to/?https://github.com/v1s1t0r1sh3r3/airgeddon)
 - [𝚄𝚗𝚐𝚘𝚘𝚐𝚕𝚎𝚍-𝙲𝚑𝚛𝚘𝚖𝚒𝚞𝚖](https://anonym.to/?https://ungoogled-software.github.io)
 - [𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖-𝙳𝚎𝚜𝚔𝚝𝚘𝚙](https://anonym.to/?https://github.com/telegramdesktop)
 - [𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖-𝙵𝙾𝚂𝚂](https://anonym.to/?https://github.com/Telegram-FOSS-Team/Telegram-FOSS)
-- [𝙸𝚌𝚎𝚆𝚎𝚊𝚜𝚎𝚕-𝚆𝚒𝚗𝟼𝟺](https://anonym.to/?https://github.com/muslayev/iceweasel-win64)
 - [𝙰𝚛𝚌𝚑𝙻𝚒𝚗𝚞𝚡 𝚄𝚕𝚝𝚒𝚖𝚊𝚝𝚎 𝙸𝚗𝚜𝚝𝚊𝚕𝚕](https://anonym.to/?https://github.com/helmuthdu/aui)
 - [𝙰𝚛𝚌𝚑𝙱𝚘𝚘𝚝](https://anonym.to/?https://github.com/grm34/ArchBoot)
 - [𝙾𝚗𝚎𝚂𝚑𝚘𝚝](https://anonym.to/?https://github.com/drygdryg/OneShot)
