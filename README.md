@@ -5,22 +5,7 @@
 𝙱𝚕𝚊𝚌𝚔𝙷𝚊𝚝, 𝚁𝚎𝚟𝚎𝚛𝚜𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛, 𝙱𝚞𝚐 𝙱𝚘𝚞𝚗𝚝𝚢 𝙷𝚞𝚗𝚝𝚎𝚛, 𝚂𝚢𝚜𝙰𝚍𝚖𝚒𝚗, 𝚇𝙳𝙰 𝚁𝚎𝚌𝚘𝚐𝚗𝚒𝚣𝚎𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚗𝚍 𝚊 𝚖𝚎𝚖𝚋𝚎𝚛 𝚘𝚏 𝟶𝚡𝟶𝟶𝚜𝚎𝚌 - 𝚃𝚑𝚎 𝙷𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝙷𝚊𝚌𝚔𝚎𝚛
 
 ⚡ 𝙸'𝚟𝚎 𝚋𝚎𝚎𝚗 𝚌𝚘𝚍𝚒𝚗𝚐 𝚜𝚒𝚗𝚌𝚎 𝟸𝟶𝟷𝟹, 𝚖𝚘𝚜𝚝𝚕𝚢 𝚏𝚘𝚛 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗, 𝚌𝚑𝚊𝚝𝚋𝚘𝚝𝚜 𝚊𝚗𝚍 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚘𝚝𝚑𝚎𝚛 𝚌𝚘𝚘𝚕 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜. 𝙰𝚕𝚜𝚘, 𝙸'𝚟𝚎 𝚋𝚎𝚎𝚗 𝚝𝚒𝚗𝚔𝚎𝚛𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚆𝚒𝚗𝚍𝚘𝚠𝚜, 𝙻𝚒𝚗𝚞𝚡, 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝. 𝙱𝚞𝚒𝚕𝚍𝚎𝚍 𝚖𝚘𝚍𝚜, 𝚌𝚞𝚜𝚝𝚘𝚖 𝚁𝙾𝙼, 𝚛𝚎𝚌𝚘𝚟𝚎𝚛𝚢, 𝚔𝚎𝚛𝚗𝚎𝚕𝚜 𝚏𝚘𝚛 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝚍𝚎𝚟𝚒𝚌𝚎𝚜.
-𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚜𝚘 𝚖𝚊𝚗𝚢 𝚌𝚘𝚘𝚕 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜.
-
-🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 :
-
-- [𝚅𝚎𝚗𝚝𝚘𝚢](https://anonym.to/?https://www.ventoy.net)
-- [𝚁𝚎𝚟𝚒𝙾𝚂](https://anonym.to/?https://www.revi.cc/)
-- [𝙱𝚕𝚊𝚌𝚔𝙰𝚛𝚌𝚑](https://anonym.to/?https://blackarch.org)
-- [𝙰𝚛𝚌𝚘𝙻𝚒𝚗𝚞𝚡](https://anonym.to/?https://arcolinux.com)
-- [𝙱𝚛𝚘𝚖𝚒𝚝𝚎](https://anonym.to/?https://bromite.org)
-- [𝙱𝚕𝚒𝚜𝚜𝙾𝚂](https://anonym.to/?https://www.blissos.org)
-- [𝚄𝚗𝚐𝚘𝚘𝚐𝚕𝚎𝚍-𝙲𝚑𝚛𝚘𝚖𝚒𝚞𝚖](https://anonym.to/?https://ungoogled-software.github.io)
-- [𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖-𝙳𝚎𝚜𝚔𝚝𝚘𝚙](https://anonym.to/?https://github.com/telegramdesktop)
-- [𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖-𝙵𝙾𝚂𝚂](https://anonym.to/?https://github.com/Telegram-FOSS-Team/Telegram-FOSS)
-- [𝙰𝚛𝚌𝚑𝙻𝚒𝚗𝚞𝚡 𝚄𝚕𝚝𝚒𝚖𝚊𝚝𝚎 𝙸𝚗𝚜𝚝𝚊𝚕𝚕](https://anonym.to/?https://github.com/helmuthdu/aui)
-- [𝙰𝚛𝚌𝚑𝙱𝚘𝚘𝚝](https://anonym.to/?https://github.com/grm34/ArchBoot)
-- [𝙾𝚗𝚎𝚂𝚑𝚘𝚝](https://anonym.to/?https://github.com/drygdryg/OneShot)
+𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚜𝚘 𝚖𝚊𝚗𝚢 𝚌𝚘𝚘𝚕 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜. Making the world more better where everyone should have their own privacy & security !
 
 :wrench: 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 :
 
