@@ -1,5 +1,6 @@
 <h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 !</h1>
 
+<p align="center">
 👋 𝙷𝚒 𝚃𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝙱𝙻𝟺𝙲𝙺𝙷𝟺𝟽𝙷𝟺𝙲𝙺𝟹𝚁 !
 
 𝙱𝚕𝚊𝚌𝚔𝙷𝚊𝚝, 𝚁𝚎𝚟𝚎𝚛𝚜𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛, 𝙱𝚞𝚐 𝙱𝚘𝚞𝚗𝚝𝚢 𝙷𝚞𝚗𝚝𝚎𝚛, 𝚂𝚢𝚜𝙰𝚍𝚖𝚒𝚗, 𝚇𝙳𝙰 𝚁𝚎𝚌𝚘𝚐𝚗𝚒𝚣𝚎𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 & 𝙰 𝙼𝚎𝚖𝚋𝚎𝚛 𝙾𝚏 𝟶𝚡𝟶𝟶𝚜𝚎𝚌 - 𝚃𝚑𝚎 𝙷𝚘𝚖𝚎 𝙾𝚏 𝚃𝚑𝚎 𝙷𝚊𝚌𝚔𝚎𝚛
@@ -32,7 +33,6 @@
 
 ![𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜](https://visitor-badge.laobi.icu/badge?page_id=BL4CKH47H4CK3R.BL4CKH47H4CK3R&title=𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 )
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BL4CKH47H4CK3R&show_icons=true&include_all_commits=true&count_private=true&theme=algolia">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BL4CKH47H4CK3R&layout=compact&theme=algolia">
+<img src="https://github-readme-stats.vercel.app/api?username=BL4CKH47H4CK3R&show_icons=true&include_all_commits=true&count_private=true&theme=algolia">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BL4CKH47H4CK3R&layout=compact&theme=algolia">
 </p>
