@@ -1,4 +1,4 @@
-<h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 !</h1>
+<h2 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 !</h2>
 
 👋 𝙷𝚒 𝚃𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝙱𝙻𝟺𝙲𝙺𝙷𝟺𝟽𝙷𝟺𝙲𝙺𝟹𝚁 !
 
@@ -8,7 +8,7 @@
 
 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚆𝚒𝚝𝚑 𝟸𝟶𝟶+ 𝙲𝚘𝚘𝚕 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 !
 
-<h1 align="center">:wrench: 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜</h1>
+<h2 align="center">:wrench: 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜</h2>
 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/-Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white">
 <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown"> <br />
 
-<h1 align="center">:pushpin: 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠</h1>
+<h2 align="center">:pushpin: 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠</h2>
 
 ![𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜](https://visitor-badge.laobi.icu/badge?page_id=BL4CKH47H4CK3R.BL4CKH47H4CK3R&title=𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 )
 
