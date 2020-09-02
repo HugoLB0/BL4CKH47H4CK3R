@@ -8,7 +8,7 @@
 
 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚆𝚒𝚝𝚑 𝟸𝟶𝟶+ 𝙲𝚘𝚘𝚕 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 !
 
-<h2 align="center">:wrench: 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜</h2>
+<h2 align="center">:wrench: 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜-𝚃𝚘𝚘𝚕𝚜</h2>
 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
