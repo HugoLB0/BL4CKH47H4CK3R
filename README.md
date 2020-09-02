@@ -32,5 +32,5 @@
 
 ![𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜](https://visitor-badge.laobi.icu/badge?page_id=BL4CKH47H4CK3R.BL4CKH47H4CK3R&title=𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 )
 
-<img src="https://github-readme-stats.vercel.app/api?username=BL4CKH47H4CK3R&show_icons=true&include_all_commits=true&count_private=true&theme=algolia">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=BL4CKH47H4CK3R&show_icons=true&include_all_commits=true&count_private=true&theme=algolia">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BL4CKH47H4CK3R&theme=algolia">
