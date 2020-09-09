@@ -30,6 +30,6 @@
 
 <h2 align="center">:pushpin: 𝚀𝚞𝚒𝚌𝚔 𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠</h2>
 
-![𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜](https://visitor-badge.laobi.icu/badge?page_id=BL4CKH47H4CK3R.BL4CKH47H4CK3R&title=𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 )
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 <img src="https://github-readme-stats.vercel.app/api?username=BL4CKH47H4CK3R&show_icons=true&include_all_commits=true&count_private=true&theme=algolia">
