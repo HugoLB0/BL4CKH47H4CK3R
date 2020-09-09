@@ -18,7 +18,6 @@
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=eed718"> <br />
 <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=white">
-<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows">
 <img src="https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=android"> <br />
 <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
 <img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=MariaDB"> <br />
