@@ -30,6 +30,6 @@
 
 <h2 align="center">:pushpin: 𝚀𝚞𝚒𝚌𝚔 𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠</h2>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?BL4CKH47H4CK3R=your-github-username&style=flat-square&label=𝙿𝚛𝚘𝚏𝚒𝚕𝚎+𝚅𝚒𝚎𝚠𝚜)
 
 <img src="https://github-readme-stats.vercel.app/api?username=BL4CKH47H4CK3R&show_icons=true&include_all_commits=true&count_private=true&theme=algolia">
