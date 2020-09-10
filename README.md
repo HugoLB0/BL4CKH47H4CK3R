@@ -32,6 +32,6 @@
 
 ![](https://komarev.com/ghpvc/?username=BL4CKH47H4CK3R&style=flat-square&label&label=Profile+Views)
 
-<a href="https://img.shields.io/github/followers/BL4CKH47H4CK3R?color=blue&style=flat-square"></a>
+<a href="https://github.com/BL4CKH47H4CK3R/followers"><img title="Followers" src="https://img.shields.io/github/followers/BL4CKH47H4CK3R?color=blue&style=flat-square"></a>
 
 ![](https://github-readme-stats.vercel.app/api?username=BL4CKH47H4CK3R&show_icons=true&include_all_commits=true&count_private=true&theme=algolia)
