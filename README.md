@@ -43,5 +43,8 @@
 <p align=center>
 <img src="https://img.shields.io/github/followers/BL4CKH47H4CK3R?label=Followers&style=flat-square"> <br />
 <img src="https://komarev.com/ghpvc/?username=BL4CKH47H4CK3R&style=flat-square&label&label=Profile+Views"> <br />
+</p>
+
+<p align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=BL4CKH47H4CK3R&show_icons=true&include_all_commits=true&count_private=true&theme=algolia">
 </p>
