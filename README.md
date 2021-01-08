@@ -1,7 +1,7 @@
 <h2 align="center">🏆 𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚃𝚛𝚘𝚙𝚑𝚢</h2>
 
 <p align=center>
-<img src="https://github-profile-trophy.vercel.app/?username=BL4CKH47H4CK3R&column=7&theme=onedark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=BL4CKH47H4CK3R&theme=onedark"/>
 </p>
 
 <h2 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 !</h2>
