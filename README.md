@@ -7,7 +7,7 @@
 <h2 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 !</h2>
 
 <p align=center>
-👋 𝙷𝚒 𝚃𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝙱𝙻𝟺𝙲𝙺𝙷𝟺𝟽𝙷𝟺𝙲𝙺𝟹𝚁 ! <br />
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 𝙷𝚒 𝚃𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝙱𝙻𝟺𝙲𝙺𝙷𝟺𝟽𝙷𝟺𝙲𝙺𝟹𝚁 ! <br />
 </p>
 
 <p align=center>
