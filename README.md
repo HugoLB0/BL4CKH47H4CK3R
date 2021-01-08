@@ -1,7 +1,7 @@
 <h2 align="center">🏆 𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚃𝚛𝚘𝚙𝚑𝚢</h2>
 
 <p align=center>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=BL4CKH47H4CK3R&column=7"/>
 </p>
 
 <h2 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 !</h2>
@@ -47,7 +47,6 @@
 <h2 align="center">:pushpin: 𝚀𝚞𝚒𝚌𝚔 𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠</h2>
 
 <p align=center>
-<img src="https://img.shields.io/github/followers/BL4CKH47H4CK3R?label=Followers&style=flat-square"> <br />
 <img src="https://komarev.com/ghpvc/?username=BL4CKH47H4CK3R&style=flat-square&label&label=Profile+Views"> <br />
 </p>
 
