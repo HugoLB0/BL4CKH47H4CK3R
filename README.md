@@ -49,9 +49,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=BL4CKH47H4CK3R&show_icons=true&include_all_commits=true&count_private=true&theme=algolia">
 </p>
 
+<h2 align="center">🏆 𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚃𝚛𝚘𝚙𝚑𝚢</h2>
 
 <p align=center>
-<img src="https://github.com/ryo-ma/github-profile-trophy">🏆 𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚃𝚛𝚘𝚙𝚑𝚢</>
+<img src="https://github.com/ryo-ma/github-profile-trophy">
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7"/>
-</a>
 </p>
