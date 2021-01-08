@@ -1,8 +1,3 @@
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚃𝚛𝚘𝚙𝚑𝚢</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7"/>
-</a>
-
 <h2 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 !</h2>
 
 <p align=center>
@@ -52,4 +47,12 @@
 
 <p align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=BL4CKH47H4CK3R&show_icons=true&include_all_commits=true&count_private=true&theme=algolia">
+</p>
+
+
+<p align=center>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚃𝚛𝚘𝚙𝚑𝚢</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7"/>
+</a>
 </p>
