@@ -52,6 +52,5 @@
 <h2 align="center">🏆 𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚃𝚛𝚘𝚙𝚑𝚢</h2>
 
 <p align=center>
-<img src="https://github.com/ryo-ma/github-profile-trophy">
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7"/>
 </p>
