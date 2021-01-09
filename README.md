@@ -19,10 +19,10 @@
 </p>
 
 <p align=center>
-⚡ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚆𝚒𝚝𝚑 𝟸𝟶𝟶+ 𝙲𝚘𝚘𝚕 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 !
+⚡ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚆𝚒𝚝𝚑 𝟸𝟶𝟶+ 𝙲𝚘𝚘𝚕 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 ! ⚡
 </p>
 
-<h2 align="center">:wrench: 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝙰𝚛𝚜𝚎𝚗𝚊𝚕𝚜</h2>
+<h2 align="center">:wrench: 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝙰𝚛𝚜𝚎𝚗𝚊𝚕𝚜 :wrench:</h2>
 
 <p align=center>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br />
@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown"> <br />
 </p>
   
-<h2 align="center">:pushpin: 𝚀𝚞𝚒𝚌𝚔 𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠</h2>
+<h2 align="center">:pushpin: 𝚀𝚞𝚒𝚌𝚔 𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠 :pushpin:</h2>
 
 <p align=center>
 <img src="https://komarev.com/ghpvc/?username=BL4CKH47H4CK3R&style=flat-square&label&label=Profile+Views"> <br />
