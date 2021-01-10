@@ -4,10 +4,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=BL4CKH47H4CK3R&theme=onedark"/>
 </p>
 
-<p align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=BL4CKH47H4CK3R&show_icons=true&include_all_commits=true&count_private=true&theme=react">
-</p>
-
 <h2 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 !</h2>
 
 <p align=center>
@@ -25,6 +21,12 @@
 <p align=center>
 ⚡ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚆𝚒𝚝𝚑 𝟸𝟶𝟶+ 𝙲𝚘𝚘𝚕 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 ! ⚡
 </p>
+
+<p align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=BL4CKH47H4CK3R&show_icons=true&include_all_commits=true&count_private=true&theme=react">
+</p>
+
+
 
 <h2 align="center">:wrench: 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝙰𝚛𝚜𝚎𝚗𝚊𝚕𝚜 :wrench:</h2>
 
