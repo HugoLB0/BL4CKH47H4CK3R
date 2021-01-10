@@ -46,9 +46,7 @@
   
 <h2 align="center">:pushpin: 𝚀𝚞𝚒𝚌𝚔 𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠 :pushpin:</h2>
 
-<p align=center>
-<img src="https://komarev.com/ghpvc/?username=BL4CKH47H4CK3R&style=flat-square&label&label=Profile+Views"> <br />
-</p>
+<p align=center>𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚅𝚒𝚎𝚠𝚜<img src="https://profile-counter.glitch.me/BL4CKH47H4CK3R/count.svg"></p>
 
 <p align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=BL4CKH47H4CK3R&show_icons=true&include_all_commits=true&count_private=true&theme=algolia">
